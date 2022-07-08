@@ -1,0 +1,11 @@
+{
+    "appName": "Chanel",
+    "appIcon": "",
+    "appSettings": {
+        "useNode": true
+    },
+    "window" : {
+        "width": 1300,
+        "height": 800
+    }
+}

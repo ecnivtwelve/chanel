@@ -1,0 +1,16 @@
+{
+  "name": "chanel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^19.0.8",
+    "electron-reloader": "^1.2.3",
+    "node-wallpaper": "^6.0.2"
+  }
+}
